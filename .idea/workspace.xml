@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a0f2c5d-e4dc-47fb-83e5-96779e1d2b34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca75dcdf-c0d3-4c32-b0a5-b1522d24d4b1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ca75dcdf-c0d3-4c32-b0a5-b1522d24d4b1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/Posts.go" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Topic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/catagory.go" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/reply.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Category.go" beforeDir="false" afterPath="$PROJECT_DIR$/Model/reply.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Posts.go" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Topic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/Model/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/Model/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/Category.go" beforeDir="false" afterPath="$PROJECT_DIR$/Service/reply.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/Posts.go" beforeDir="false" afterPath="$PROJECT_DIR$/Service/Topic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/Service/token.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/Service/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/ErrorMessage/ErrorMessage.go" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/ErrorMessage/ErrorMessage.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/GenerateId/GnerateId.go" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/GenerateId/GnerateId.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/JWT.go" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/JWT.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Response/Response.go" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/Response/Response.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/SensitiveWordFilter/SensitiveWord.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/SensitiveWordFilter/SensitiveWordFilter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/router.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1x7kVN7VznNOAKxYSPU0onLerHq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GoProjects\src\Exe\Model" />
+      <recent name="C:\GoProjects\src\Exe\Utils\SensitiveWordFilter" />
+      <recent name="C:\GoProjects\src\Exe\Utils\Response" />
+      <recent name="C:\GoProjects\src\Exe\Utils\ErrorMessage" />
+      <recent name="C:\GoProjects\src\Exe\Utils\GenerateId" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build Class.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Exe" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Service/Class.go" />
+      <package value="Exe" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Exe" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Exe" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Exe" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build db.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Exe" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Dao/db.go" />
+      <package value="Exe" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Exe" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Exe" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build user.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Exe" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Model/user.go" />
+      <package value="Exe" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build Exe" />
+        <item itemvalue="Go Build.go build Class.go" />
+        <item itemvalue="Go Build.go build user.go" />
+        <item itemvalue="Go Build.go build db.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="158" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638082567295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="158" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1638082567295" />
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1641111532291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1641111532291" />
+    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1641111532291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1641111532291" />
+    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1641111532291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1641111532291" />
+    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1641111532291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1641111532291" />
+    <state x="262" y="96" width="605" height="536" key="find.popup" timestamp="1640703516261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="262" y="96" width="605" height="536" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1640703516261" />
+  </component>
+</project>
